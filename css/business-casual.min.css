@@ -48,5 +48,6 @@ p{line-height:1.75}
 
 }
 .formtum{
-  background-color: rgba(255,255,255,.85);
+  background-color: rgba(230,167,86,.5);
+  align-self: center;
 }
