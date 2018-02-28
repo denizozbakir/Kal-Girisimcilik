@@ -44,10 +44,12 @@ p{line-height:1.75}
 .form{
 
   font-family: Raleway;
-  font-size: 10px;
+  font-size:20px;
 
 }
 .formtum{
-  background-color: rgba(230,167,86,.5);
-  align: justify;
+  background-color: brown;
+  margin-right: auto;
+
+margin-left: auto;
 }
